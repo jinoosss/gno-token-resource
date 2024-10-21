@@ -115,5 +115,18 @@
     "discord_url": "https://discord.com/invite/u4bdGHStb2",
     "docs_url": "https://docs.gnoswap.io/user-guide/getting-started",
     "image": "/grc20/images/gno_land_r_onbloc_usdc.svg"
+  },
+  {
+    "name": "Jinoopdog",
+    "pkg_path": "gno.land/r/onbloc/jinwoo2",
+    "symbol": "WOO",
+    "decimals": 6,
+    "chain_id": "test4",
+    "description": "Onbloc is a leading Gnoland blockchain software company building Adena and Gnoscan to make it easy to build applications on Gnoland. Gnoland is a public blockchain initiative led by Jae Kwon, the creator of Cosmos Network and Tendermint. As an active contributor to the Gnoland ecosystem, Onbloc is committed to developing Gnoland-native dapps, operating a Gnoland validator, and investing in aspiring projects building on Gnoland. For Upcoming Status.",
+    "website_url": "",
+    "twitter_url": "",
+    "discord_url": "",
+    "docs_url": "",
+    "image": "g"
   }
 ]
